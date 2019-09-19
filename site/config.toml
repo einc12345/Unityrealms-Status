@@ -13,4 +13,4 @@ title = "UnityRealms"
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["Web Services", "Discord Services", "Staff Services", "Parks Server", "Creative Server", "Survival Server", "Hub Server", "Arcade Server"
+systems = ["Web Services", "Discord Services", "Staff Services", "Parks Server", "Creative Server", "Survival Server", "Hub Server", "Arcade Server"]
